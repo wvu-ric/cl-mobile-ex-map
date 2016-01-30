@@ -15,7 +15,6 @@ The other chapters in this series are required but do not have corresponding exe
 
 ### [Objective-C Essential Training](http://www.lynda.com/Objective-C-tutorials/Objective-C-Essential-Training/143328-2.html)
 * **Chapter 2:** [Hello World](https://github.com/wvu-ric/cl-mobile-objc-hello)
-* **Chapter 3:** [Fever](https://github.com/wvu-ric/cl-mobile-objc-fever), [PIN Guess](https://github.com/wvu-ric/cl-mobile-objc-pinguess)
-* -- Skip section on Obj-C functions --
+* **Chapter 3:** [Fever](https://github.com/wvu-ric/cl-mobile-objc-fever), [PIN Guess](https://github.com/wvu-ric/cl-mobile-objc-pinguess) (Skip section on Obj-C functions)
 * **Chapter 4:** Only watch "Data types in Objective-C", "Using chars and BOOL", "Understanding Variable Scope", "Using string objects"
 * **Chapter 6:** Skip
