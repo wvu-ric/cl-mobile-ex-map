@@ -9,7 +9,7 @@ All exercises in the CodeLab: Mobile App Dev course are designed to test underst
 * **Chapter 6:** [PIN Guess](https://github.com/wvu-ric/cl-mobile-js-pinguess)
 * **Chapter 7:** [Add (add NaN checking for inputs)](https://github.com/wvu-ric/cl-mobile-js-add), [Palindrome](https://github.com/wvu-ric/cl-mobile-js-palindrome)
 * **Chapter 8:** [List](https://github.com/wvu-ric/cl-mobile-js-list)
-* **Chapter 9:** TODO: Pseudocode excercise
+* **Chapter 9:** TODO: Pseudocode exercise
 
 The other chapters in this series are required but do not have corresponding exercises.
 
