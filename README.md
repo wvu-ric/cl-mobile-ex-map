@@ -19,3 +19,4 @@ The other chapters in this series are required but do not have corresponding exe
 * **Chapter 4:** Only watch "Data types in Objective-C", "Using chars and BOOL", "Understanding Variable Scope", "Using string objects"
 * **Chapter 5:** [Methods](https://github.com/wvu-ric/cl-mobile-objc-methods)
 * **Chapter 7:** [Blank](https://github.com/wvu-ric/cl-mobile-objc-blank), [Objective Me](https://github.com/wvu-ric/cl-mobile-objc-me)
+* **Chapter 8:** Skip "Working with C-style arrays",
