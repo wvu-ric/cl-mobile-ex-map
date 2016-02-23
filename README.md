@@ -20,3 +20,5 @@ The other chapters in this series are required but do not have corresponding exe
 * **Chapter 5:** [Methods](https://github.com/wvu-ric/cl-mobile-objc-methods)
 * **Chapter 7:** [Blank](https://github.com/wvu-ric/cl-mobile-objc-blank), [Objective Me](https://github.com/wvu-ric/cl-mobile-objc-me)
 * **Chapter 8:** Skip "Working with C-style arrays", [Attendance](https://github.com/wvu-ric/cl-mobile-objc-attendance), [Welp](https://github.com/wvu-ric/cl-mobile-objc-welp)
+
+###[iOS App Development Essential Training](http://www.lynda.com/iOS-tutorials/iOS-App-Development-Essential-Training/159179-2.html)
