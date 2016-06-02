@@ -9,6 +9,7 @@ All exercises in the CodeLab course are designed to test understanding of concep
 * **Chapter 6:** [PIN Guess](https://github.com/wvu-ric/cl-mobile-js-pinguess)
 * **Chapter 7:** [Add (add NaN checking for inputs)](https://github.com/wvu-ric/cl-mobile-js-add), [Palindrome](https://github.com/wvu-ric/cl-mobile-js-palindrome)
 * **Chapter 8:** [List](https://github.com/wvu-ric/cl-mobile-js-list)
-* **Chapter 9:** TODO: Pseudocode exercise
+* **Chapter 13:** [Pseudocode Sorting](https://github.com/wvu-ric/cl-algo-pseudosort)
+* **Chapter 14:** [Picking a Language](https://github.com/wvu-ric/cl-js-otherlangs)
 
 The other chapters in this series are required but do not have corresponding exercises.
